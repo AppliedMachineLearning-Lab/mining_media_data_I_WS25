@@ -18,5 +18,3 @@ Lectures will take place every Wednesday at the B-IT (Friedrich-Hirzebruch-Allee
 |               Lecture 9 | 14. Jan | Preditctive Data Mining II  |
 | Lecture 10/Assignment 3 | 21. Jan | Preditctive Data Mining III |
 |              Lecture 11 | 28. Jan | Recap                       |
-|                         | 04. Feb | Final Exam                  |
-|                         | 13. Mar | Final Exam (retake)         |
